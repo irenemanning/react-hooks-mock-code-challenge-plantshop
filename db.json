@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "image": "https://i.etsystatic.com/24423362/r/il/79b433/2895635933/il_570xN.2895635933_apy7.jpg",
+      "name": "Fittonia",
+      "price": "25.87",
+      "id": 8
     }
   ]
 }
